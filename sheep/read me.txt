@@ -1,0 +1,4 @@
+to play this game you will need to download python from python.org and during install be sure to check the add python to path check box
+once python is installed and you have added it to the path get in to the command prompt of your computer and type pip install pygame
+to start the game click on the main and run with python
+
